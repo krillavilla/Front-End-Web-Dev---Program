@@ -1,0 +1,9 @@
+[submodule "Business-Landing-Page"]
+	path = Business-Landing-Page
+	url = https://github.com/krillavilla/Business-Landing-Page.git
+[submodule "Building-a-Portfolio-Homepage"]
+	path = Building-a-Portfolio-Homepage
+	url = https://github.com/krillavilla/Building-a-Portfolio-Homepage.git
+[submodule "Personal-Portfolio"]
+	path = Personal-Portfolio
+	url = git@github.com:krillavilla/Personal-Portfolio.git
