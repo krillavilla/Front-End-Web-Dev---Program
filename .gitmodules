@@ -7,3 +7,6 @@
 [submodule "Personal-Portfolio"]
 	path = Personal-Portfolio
 	url = git@github.com:krillavilla/Personal-Portfolio.git
+[submodule "Optimizing-and-Testing"]
+	path = Optimizing-and-Testing
+	url = git@github.com:krillavilla/Optimizing-and-Testing.git
